@@ -1,4 +1,6 @@
 # if formula is T(°C) = T(K) - 273.15
+#check here URL: https://www.rapidtables.com/convert/temperature/
+
 k = 300.00 # if temperature is
 
 def k_2_c(k):

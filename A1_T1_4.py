@@ -1,4 +1,6 @@
 # if formula is T(K) = (T(°F) + 459.67)× 5/9
+#check here URL: https://www.rapidtables.com/convert/temperature/
+
 f = 72.50 # if temperature is
 
 def F_2_K(f):

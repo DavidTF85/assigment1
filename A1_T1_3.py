@@ -1,4 +1,5 @@
 # if formula Fahrenheit to Celsius is: T(°C) = (T(°F) - 32) × 5/9
+#check here URL: https://www.rapidtables.com/convert/temperature/
 f= 80.00  # if temperature is
 
 def F_2_C(f):

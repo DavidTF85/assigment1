@@ -1,4 +1,6 @@
 # if formula is T(°F) = T(K) × 9/5 - 459.67
+#check here URL: https://www.rapidtables.com/convert/temperature/
+
 k = 300.00 # if temperature is
 
 def k_2_f(k):

@@ -2,6 +2,7 @@ c= 25.0
 
 def K_2_C(c):
     # kalving formula = T(K) = T(°C) + 273.15
+    #check here URL: https://www.rapidtables.com/convert/temperature/
     k = c+273.5
     return k
 
